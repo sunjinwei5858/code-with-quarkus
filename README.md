@@ -56,4 +56,7 @@ Easily start your Reactive RESTful Web Services
 [Related guide section...](https://quarkus.io/guides/getting-started-reactive#reactive-jax-rs-resources)
 
 ## 环境
-jdk11, maven3.8.4
+安装环境：jdk11, maven3.8.4
+
+## 版本
+quarkus-version：2.15.3.Final
